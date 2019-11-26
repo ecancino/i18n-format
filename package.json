@@ -1,0 +1,9 @@
+{
+  "name": "js-r7gvnt",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "ramda": "^0.26.1"
+  }
+}
